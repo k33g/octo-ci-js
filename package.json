@@ -1,0 +1,24 @@
+{
+  "name": "octo-ci-js",
+  "version": "1.0.0",
+  "description": "CI server Faker",
+  "main": "index.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k33g/octo-ci-js.git"
+  },
+  "author": "@k33g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k33g/octo-ci-js/issues"
+  },
+  "homepage": "https://github.com/k33g/octo-ci-js#readme",
+  "dependencies": {
+    "githubhook": "^1.6.1",
+    "monet": "^0.8.10",
+    "octonode": "^0.7.6"
+  }
+}
