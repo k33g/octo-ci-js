@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/k33g/octo-ci-js#readme",
   "dependencies": {
+    "chalk": "^1.1.3",
     "githubhook": "^1.6.1",
-    "monet": "^0.8.10",
     "octonode": "^0.7.6"
   }
 }
